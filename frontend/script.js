@@ -1,5 +1,5 @@
 const BACKEND_URL =
-"http://localhost:5000";
+"https://full-stack-hosting-7v5r.onrender.com";
 
 async function getMessage(){
 
